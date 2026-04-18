@@ -1,4 +1,4 @@
-## Interface: 90002
+## Interface: 120001
 ## Title: RareTrackerIcecrown
 ## Notes: Track and coordinate rare spawn timers for the rares in the Icecrown launch event.
 ## Author: Melroy, Ayr
